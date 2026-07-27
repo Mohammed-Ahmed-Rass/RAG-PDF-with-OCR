@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+streamlit
+requests
+python-multipart
+python-dotenv
+langchain
+langchain-text-splitters
+langchain-openai
+langchain-community
+faiss-cpu
+pypdf
+pytesseract
+pdf2image
